@@ -1,6 +1,6 @@
 # Hi, I'm 承泽 (chengzeli7) 👋
 
-**Software Engineer | Kotlin · Java · Flutter**
+**软件工程师 | Kotlin · Java · Flutter**
 
 ---
 
