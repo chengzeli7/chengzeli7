@@ -41,7 +41,7 @@
 
 ## 📬 Contact Me
 
-- **Email:** lichengzed[at]163.com
+- **Email:** lichengzed@163.com
 
 ---
 
