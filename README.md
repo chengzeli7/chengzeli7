@@ -11,12 +11,10 @@ Android developer. I build small mobile products, offline-first tools, and pract
 ## 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="./assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chengzeli7/chengzeli7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chengzeli7/chengzeli7/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chengzeli7/chengzeli7/output/github-snake.svg" />
 </picture>
-
-![Profile highlights](./assets/profile-highlights.svg)
 
 ## ⭐ Favorite Projects
 
